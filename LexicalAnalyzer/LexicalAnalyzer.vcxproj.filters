@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="LexicalAnalyzer_Lee.c">
+    <ClCompile Include="LexicalAnalyzer.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="LexicalAnalyzer.c">
+    <ClCompile Include="main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
